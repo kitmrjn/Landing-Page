@@ -136,7 +136,7 @@ img.first-image{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 80px 90px;
+    padding: 100px 90px;
 }
 
 .call-to-action{
@@ -180,4 +180,7 @@ img.first-image{
 
 .footer{
     background-color: #1f2937;
+    text-align: center;
+    padding: 40px 90px;
+    color: #f9faf8;
 }
